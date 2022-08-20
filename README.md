@@ -1,1 +1,1 @@
-# Sample Snack app
+# Sample React native (Snack) app
